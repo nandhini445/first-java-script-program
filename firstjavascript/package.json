@@ -1,0 +1,12 @@
+{
+  "name": "firstjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "nandhini",
+  "license": "ISC"
+}
